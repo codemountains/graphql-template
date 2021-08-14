@@ -1,3 +1,5 @@
+:relieved:　generated from **[tuanlc/graphql_clean-architecture_boilerplate](https://github.com/tuanlc/graphql_clean-architecture_boilerplate)**
+
 # GraphQL + Clean Architectire boilerplate
 
 I wrote an article about this boilerplate at:
